@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# moeOS RE 4 dict
+#
+# Created by Kimiblock
+#
+
+---
+name: re4-en
+version: "0.1"
+sort: by_weight
+...
+
+Ashley	Ashley
+Typewriter	Typewriter
+Leon	Leon
+Ada	Ada
+Resident Evil	Resident
+Resident Evil 4	Resident
